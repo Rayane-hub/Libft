@@ -2,7 +2,7 @@
 
 ![42 Project](https://img.shields.io/badge/42%20Project-Libft-blue)
 ![Language](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/Validated-100%25-success)
+![Status](https://img.shields.io/badge/Validated-125%25-success)
 
 **Langage :** C  
 **Concepts clés :** Gestion mémoire, manipulation de chaînes, pointeurs, fonctions de base
