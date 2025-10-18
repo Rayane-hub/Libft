@@ -1,6 +1,5 @@
-# Libft
-Recréation de fonctions standard de la librairie C : mémoire, chaînes, pointeurs.
 # 🧩 Libft
+Recréation de fonctions standard de la librairie C : mémoire, chaînes, pointeurs.
 
 **Langage :** C  
 **Concepts clés :** Gestion mémoire, manipulation de chaînes, pointeurs, fonctions de base
